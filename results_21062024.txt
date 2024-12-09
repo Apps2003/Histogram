@@ -1,0 +1,2 @@
+Total Vehicles: 1334
+Total Trucks: 138
